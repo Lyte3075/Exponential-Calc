@@ -1,10 +1,10 @@
-# Exponentia Calculator
+# Exponential-Calc
 
 An advanced, responsive, single-file calculator with scientific, graphing, statistics, matrix, equation-solving, conversion, finance, programmer, date/time, constants, themes, history, and import/export features.
 
 ## 🚀 Live Demo
 
-**[Open Exponentia Calculator on GitHub Pages](https://lyte3075.github.io/Exponential-Calc/)**
+**[Open Exponential-Calc on GitHub Pages](https://lyte3075.github.io/Exponential-Calc/)**
 
 ## 📦 Repository
 
